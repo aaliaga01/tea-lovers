@@ -6,7 +6,7 @@ Código Hexadecimal gris footer: #3B3B3B
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Realeway";
+	font-family: "Raleway";
 	font-size: 16px;
 }
 
@@ -66,8 +66,8 @@ Código Hexadecimal gris footer: #3B3B3B
 .contenido h1{
 	font-weight: bolder;
 	font-size: 5rem;
-	line-height: 5rem
-	text-transform:uppercase;
+	line-height: 5rem;
+	text-transform: uppercase;
 }
 
 /*tipos de té*/
